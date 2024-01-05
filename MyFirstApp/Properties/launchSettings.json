@@ -3,16 +3,16 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:4409",
+      "applicationUrl": "http://localhost:36920",
       "sslPort": 0
     }
   },
   "profiles": {
-    "MyFirstApp": {
+    "MyProject.Kestrel": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
-      "applicationUrl": "http://localhost:5216",
+      "applicationUrl": "http://localhost:6734",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
